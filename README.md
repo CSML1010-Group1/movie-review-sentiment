@@ -6,7 +6,7 @@ Movie review sentiment analysis using http://ai.stanford.edu/~amaas/data/sentime
 - Navigate to the directory using `cd movie-review-sentiment`
 - Build the environment with `conda env create --file environment.yaml --force`
 - Activate the environment with `conda activate movie-review-sentiment`
-- Launch either `jupyter lab` or `jupyter notebook`
+- Launch either `python -m jupyter lab` or `python -m jupyter notebook`
 ## Conventions
 - `data` folder contains flat file data
 - dependencies are managed through `conda` for local development
