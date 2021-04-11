@@ -175,6 +175,7 @@ dependencies:
   - typing-extensions=3.7.4.3
   - typing_extensions=3.7.4.3
   - urllib3=1.26.4
+  - vadersentiment=3.3.2
   - vc=14.2
   - vs2015_runtime=14.27.29016
   - wasabi=0.8.2
@@ -195,4 +196,3 @@ dependencies:
     - en-core-web-sm==3.0.0
     - jupyter-lsp==1.1.4
     - jupyterlab-lsp==3.5.0
-
